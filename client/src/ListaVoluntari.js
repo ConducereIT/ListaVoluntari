@@ -6,6 +6,7 @@ export default function ListaVoluntari() {
       <h1>Calin Silvian Petre - xRankk</h1>
       <h1>Cazan Florin-Ciprian - Ciprau</h1>
       <h1>Cristi Miloiu - cristim67</h1>
+      <h1>Cernat Alexandru Florin - iWar10</h1>
       <h1>Condrat Ioan-Andrei - Aciam005</h1>
       <h1>Robert Stancu - Robykus</h1>
       <h1>Georgescu Alexandru Gabriel - AlexGG27</h1>
