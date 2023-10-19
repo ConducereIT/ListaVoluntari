@@ -4,7 +4,8 @@ export default function ListaVoluntari() {
       <h1>Dulgheriu Bogdan Gabriel - dulgheriubogdan</h1>
       <h1>Calin Silvian Petre - xRankk</h1>
       <h1>Cristi Miloiu - cristim67</h1>
-      <h1>Negru Alexandru - TheBlackMan2004</h1>
+      <h1>Negru Alexandru - TheBlackMan2004</h>
+      <h1>Muie Ionel<h1/>
     </>
   );
 }
