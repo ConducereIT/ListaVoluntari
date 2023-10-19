@@ -5,6 +5,7 @@ export default function ListaVoluntari() {
       <h1>Calin Silvian Petre - xRankk</h1>
       <h1>Cristi Miloiu - cristim67</h1>
       <h1>Muie Ionel</h1>
+      <h1>Micle Beniamin - Benny-Jr</h1>
     </>
   );
 }
