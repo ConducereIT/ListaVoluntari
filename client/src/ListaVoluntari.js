@@ -1,6 +1,7 @@
 export default function ListaVoluntari() {
   return (
     <>
+    <h1>Dragut Stefan Constantin - xStefanut21</h1>
       <h1>Dulgheriu Bogdan Gabriel - dulgheriubogdan</h1>
       <h1>Calin Silvian Petre - xRankk</h1>
       <h1>Cazan Florin-Ciprian - Ciprau</h1>
