@@ -21,7 +21,7 @@ export default function ListaVoluntari() {
       <h1>Grecu Victor - IonGigi970</h1>
       <h1>Cezar - cezar1409</h1>
       <h1>Ochenatu Andrei - Drakonul</h1>
-      <h1>Negru Alexandru - TheBlackMan2004</h>
+      <h1>Negru Alexandru - TheBlackMan2004</h1>
       <h1>Dragos Popirtac - d0ghe</h1>
       <h1>Salafenco Cristian - CristiSx</h1>
       <h1>Drug Razvan Nicolae - Razy112 </h1>
