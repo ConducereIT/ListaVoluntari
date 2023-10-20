@@ -9,6 +9,7 @@ export default function ListaVoluntari() {
       <h1>Stefan Ionel - smiromania</h1>
       <h1>Georgescu Andrei - GeorgescuAndrei</h1>
       <h1>Bogdan-George Boiangiu - kxppy</h1>
+      <h1>Sandu Luigi - Luiy11</h1>
       <h1>Mogda Ionut-Liviu - mogd-a</h1>
       <h1>Cernat Alexandru Florin - iWar10</h1>
       <h1>Condrat Ioan-Andrei - Aciam005</h1>
@@ -21,7 +22,7 @@ export default function ListaVoluntari() {
       <h1>Grecu Victor - IonGigi970</h1>
       <h1>Cezar - cezar1409</h1>
       <h1>Ochenatu Andrei - Drakonul</h1>
-      <h1>Negru Alexandru - TheBlackMan2004</h>
+      <h1>Negru Alexandru - TheBlackMan2004</h1>
       <h1>Dragos Popirtac - d0ghe</h1>
       <h1>Salafenco Cristian - CristiSx</h1>
       <h1>Drug Razvan Nicolae - Razy112 </h1>
