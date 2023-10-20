@@ -4,7 +4,7 @@ export default function ListaVoluntari() {
       <h1>Dulgheriu Bogdan Gabriel - dulgheriubogdan</h1>
       <h1>Calin Silvian Petre - xRankk</h1>
       <h1>Cristi Miloiu - cristim67</h1>
-      <h1>Nita Abid - Apizduk</h1>
+      <h1>Nita Abid - Apizduk </h1>
     </>
   );
 }
