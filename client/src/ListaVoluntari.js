@@ -9,6 +9,7 @@ export default function ListaVoluntari() {
       <h1>Stefan Ionel - smiromania</h1>
       <h1>Georgescu Andrei - GeorgescuAndrei</h1>
       <h1>Bogdan-George Boiangiu - kxppy</h1>
+      <h1>Sandu Luigi - Luiy11</h1>
       <h1>Mogda Ionut-Liviu - mogd-a</h1>
       <h1>Cernat Alexandru Florin - iWar10</h1>
       <h1>Condrat Ioan-Andrei - Aciam005</h1>
