@@ -37,6 +37,7 @@ export default function ListaVoluntari() {
       <h1>Malacescu Gabriel Tiberiu - NameIsGabe</h1>
       <h1>Tanasie Cezar Nicolae - aNThiCu</h1>
       <h1>Guta Andrei - andreitheclone</h1>
+      <h1>Teo Costescu - TeoCos27</h1>
     </>
   );
 }
